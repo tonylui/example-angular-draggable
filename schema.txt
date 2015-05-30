@@ -1,0 +1,35 @@
+Store in database:
+1. message = stickynotes
+{
+    userid: <the notes belong to...>
+    "writtenBy" : <user>,
+    "lastUpdate": <date>,
+    "x": <x>,
+    "y": <y>
+    "z": <z>
+    "width":
+    height
+    message
+    isPublic
+}
+
+Restful
+get all notes by userID
+get all notes by writtenBy
+post notes
+
+//no security...
+2. users, facebook id
+{
+    userid //unique id
+    facebook id
+}
+
+
+
+
+
+
+oauth? facebook login
+
+
